@@ -12,11 +12,11 @@ Hosted Solution: Subscribe to a managed service with options for integration and
 Data privacy and user control are at the core of the platform. Users can decide who accesses their data, ensuring complete transparency and security.
 
 Features
-  Core Functionality
-    Data Integration: Sync data from various health and fitness ecosystems.
-    Activity Tracking: Log and visualize activities like running, cycling, swimming, and more.
-    Health Metrics: Collect and display metrics such as heart rate, sleep, and recovery.
-    Custom Analytics: Generate detailed reports and insights based on your activities.
+  	Core Functionality
+    	Data Integration: Sync data from various health and fitness ecosystems.
+   	 Activity Tracking: Log and visualize activities like running, cycling, swimming, and more.
+    	Health Metrics: Collect and display metrics such as heart rate, sleep, and recovery.
+    	Custom Analytics: Generate detailed reports and insights based on your activities.
 
 Deployment Options
 Self-Hosting: Tools and guides for users to host the platform locally or on their own server.
