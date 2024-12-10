@@ -42,3 +42,7 @@ By participating in this project, you agree to abide by our code of conduct. Ple
 If you need help or have any questions, feel free to reach out to the project maintainers. You can create an issue on GitHub or contact us through our community channels.
 
 Thank you for your contributions and for helping to make Tracksy better!
+
+## Design System
+
+For more details on the design system, refer to the [DESIGN_SYSTEM.md](DESIGN_SYSTEM.md) file.

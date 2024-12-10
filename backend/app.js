@@ -26,6 +26,13 @@ app.post('/password-recovery', (req, res) => {
   // Password recovery logic here
 });
 
+// API endpoint to save layout configuration
+app.post('/api/save-layout', (req, res) => {
+  const layout = req.body.layout;
+  // Save layout to database logic here
+  res.status(200).send('Layout saved successfully');
+});
+
 // Error handling middleware for authentication errors
 app.use((err, req, res, next) => {
   if (err.name === 'UnauthorizedError') {
