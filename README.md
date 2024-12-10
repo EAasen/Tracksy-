@@ -127,3 +127,6 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Community
 Join the discussion in our Community Forum or connect with us on Discord.
+
+## Design System
+For more details on the design system, refer to the [DESIGN_SYSTEM.md](DESIGN_SYSTEM.md) file.
